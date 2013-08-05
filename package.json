@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "description": "Renan's blog",
+  "version": "0.0.1",
+  "author": "\"bit2pixel\" Renan Cakrierk",
+  "homepage": "http://bit2pixel.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bit2pixel/blog.git"
+  },
+  "bugs": {
+    "url": "http://github.com/bit2pixel/blog/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/gruntjs/grunt/blob/master/LICENSE-MIT"
+    }
+  ],
+  "scripts": {},
+  "engines": {},
+  "keywords": [],
+  "dependencies": {
+    "underscore": "~1.5.1",
+  },
+  "devDependencies": {}
+}
